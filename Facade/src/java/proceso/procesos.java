@@ -47,9 +47,7 @@ public class procesos extends HttpServlet {
         
         
         out.println(cliente1.buscar(fechaIda, fechaVuelta, origen, Destino));
-        //out.println("Desencriptando: "+"</Br>");
         
-        //out.println(" "+"</Br>");
         }
     }
 
